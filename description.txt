@@ -1,0 +1,12 @@
+Call of Luany!
++Lore based game with choices!
++login
++character creation
++map interactive
++choice driven 
++database history saving
++time frame passing
+.
+.
+. 
++etc
